@@ -1,0 +1,2 @@
+# Secure-access-control-system-with-multi-level-authentication-
+The Secure Access Control System with Multi-Level Authentication is an embedded security system designed to prevent unauthorized access. It uses LPC2148, keypad, EEPROM, LCD, R305 fingerprint module, L293D and DC motor. It authenticates users through User ID, password and fingerprint. Access is granted only after successful verification securely.!
